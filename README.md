@@ -1,10 +1,10 @@
 # 勤怠システムを開発しよう！
 
-これはセレブエンジニアサロンの教材で作られたサンプルアプリケーションです。
+サンプルアプリケーションです。
 
 ## 開発環境
 
 * AWS Cloud9
 * Ruby
 * Rails
-* Git
+* Git（HTTPからSSHtuusinnheSSHtuusinnhe変更）
